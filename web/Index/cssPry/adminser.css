@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arbutus&display=swap');
+
+
+h2{
+	font-family: "Big Shoulders Stencil Display";
+	color:transparent;
+	margin: 10px;
+	font-size: 50px;
+	background-image: url(https://media.giphy.com/media/7FfMZCl2DSThYO1KGf/giphy.gif);
+	background-position: center;
+	/*Insertar el Gifts en la letra*/
+	-webkit-background-clip:text;
+}
+body{
+	background-image:url(..admin/img/fondoazul.jpg)background-size: cover;
+
+}
+
+
+
+
+input{
+
+	
+	font-family: 'Pompiere', cursive;
+
+}
+
+label{
+
+	font-family: 'Iceland', cursive;
+	font-size: 22px;
+}
+
+table{
+
+	font-family: 'Pompiere', cursive;
+
+}

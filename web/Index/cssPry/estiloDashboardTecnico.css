@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Dynalight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url(//db.onlinewebfonts.com/c/5272d5a9e374c0a2e7d5a16e80751ec8?family=Great+Day+Personal+Use);
+@import url('https://fonts.googleapis.com/css2?family=Jura&family=Yanone+Kaffeesatz&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Geo&family=Meera+Inimai&family=Pompiere&display=swap');
+*{ 
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.columna4{ 
+	height: 37px;
+	background: #14213d;
+	border-top:1px solid gray;
+	}
+.empresa{
+	font-family: 'Dynalight', cursive; 
+}
+
+.text{
+	font-family: 'Jura', sans-serif;
+
+}
+.borde{
+	border-bottom: 2px solid #14213d;
+}
+.justify-content-center .borde{
+	border-bottom: 2px solid #0077b6;
+
+}
+
+.titulo{
+	color:#f35b04;
+}
+.row a{
+	text-decoration: none;
+	color:gray;
+}
+.row a:hover{
+	text-decoration: none;
+	
+}
+h2{
+	font-family:'Yanone Kaffeesatz', sans-serif;
+
+}
+
+

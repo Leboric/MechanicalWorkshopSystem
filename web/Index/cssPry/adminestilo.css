@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura&family=Yanone+Kaffeesatz&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dynalight&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geo&family=Meera+Inimai&family=Pompiere&display=swap');
+
+h2{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	margin: 10px;
+	font-size: 50px;
+	color:transparent;
+	background-image: url(https://media.giphy.com/media/7FfMZCl2DSThYO1KGf/giphy.gif);
+	background-position: center;
+	/*Insertar el Gifts en la letra*/
+	-webkit-background-clip:text;
+}
+
+body{
+
+	font-family: 'Yanone Kaffeesatz, sans-serif';
+
+}
+
+input{
+	font-family: 'Pompiere', cursive;
+
+}
+
+label{
+	font-size: 25px;
+	font-family: 'Iceland', cursive;
+
+}
+
+.tam{
+	font-size: 25px;
+}
+form{
+
+	border: white 1px solid;
+	text-align: center;
+	padding: 15px;
+	width: 80%;
+	margin: auto;
+	background-color: rgba(0,0,0,0.5);
+
+}
+.text{
+	width: 200px; 
+	box-shadow: 5px 5px 10px black;
+	border-radius: 15px;
+	font-family: 'Iceland', cursive;
+	font-size: 20px;
+}
+a:hover{
+	text-decoration: none;
+}
+select{
+    
+    font-family: 'Pompiere', cursive;
+}

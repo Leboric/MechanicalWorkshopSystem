@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura&family=Yanone+Kaffeesatz&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap');
+
+
+h1{
+	font-size: 50px;
+	color: white;
+	font-family: 'Jura', sans-serif;
+	text-align: center;
+	padding: 30px;
+
+}
+.col1{
+	height: 200px;
+	background: black;
+}
+img{
+	margin-left: 480px;
+	width: 400px;
+	margin-top: 20px;
+	border-radius: 15px;
+	border:1px solid #00a8a8;
+
+}
+a{
+	width: 16px;
+	height: 30px;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 10px;
+	font-family:'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	background: #00a8a8;
+	margin-left: 400px;
+	margin-top: -30px;
+	border-radius: 8px;
+}
+
+button {
+	width: 80px;
+	height: 30px;
+	background: orange;
+	margin-left: 400px;
+	margin-top: -20px;
+	border-radius: 15px;
+}
+h5{
+	font-family: 'Iceland', cursive;
+}
+.modal a h5:hover{
+	text-decoration: none;
+}
